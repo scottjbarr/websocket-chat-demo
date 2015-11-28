@@ -14,7 +14,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/heroku-examples/go-websocket-chat-demo/Godeps/_workspace/src/github.com/gorilla/websocket"
+	"github.com/scottjbarr/websocket-chat-demo/Godeps/_workspace/src/github.com/gorilla/websocket"
 )
 
 const (

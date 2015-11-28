@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/heroku-examples/go-websocket-chat-demo/Godeps/_workspace/src/github.com/Sirupsen/logrus"
+	"github.com/scottjbarr/websocket-chat-demo/Godeps/_workspace/src/github.com/Sirupsen/logrus"
 )
 
 var log = logrus.New()
