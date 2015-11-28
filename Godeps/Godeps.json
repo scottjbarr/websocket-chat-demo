@@ -4,32 +4,5 @@
 	"Packages": [
 		"./..."
 	],
-	"Deps": [
-		{
-			"ImportPath": "code.google.com/p/go-uuid/uuid",
-			"Comment": "null-15",
-			"Rev": "'35bc42037350f0078e3c974c6ea690f1926603ab'"
-		},
-		{
-			"ImportPath": "github.com/Sirupsen/logrus",
-			"Comment": "v0.8.7-49-gcdaedc6",
-			"Rev": "cdaedc68f2894175ac2b3221869685602c759e71"
-		},
-		{
-			"ImportPath": "github.com/garyburd/redigo/redis",
-			"Rev": "a47585eaae68b1d14b02940d2af1b9194f3caa9c"
-		},
-		{
-			"ImportPath": "github.com/gorilla/context",
-			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
-		},
-		{
-			"ImportPath": "github.com/gorilla/mux",
-			"Rev": "f15e0c49460fd49eebe2bcc8486b05d1bef68d3a"
-		},
-		{
-			"ImportPath": "github.com/gorilla/websocket",
-			"Rev": "13e4d0621caa4d77fd9aa470ef6d7ab63d1a5e41"
-		}
-	]
+	"Deps": []
 }
